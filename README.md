@@ -19,7 +19,7 @@ It should all be written in a Latex format, with a title page, contents page, an
 - [ ] Condensed Matter Physics
 - [ ] Semiconductor Device Physics
 
-# Final Exams 
+# August Exams - Declan
 - [ ] Quantum Field Theory
 - [ ] Advanced Particle Physics
 - [ ] Quantum Information Processing
