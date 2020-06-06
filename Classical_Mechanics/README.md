@@ -1,4 +1,8 @@
-# This should contain an overview of the course.
-Within this file should be the .tex documents that make up course, 
-these files should be able to be compiled with pdflatex.
+# Any material added to the course should be added here!
+
+# How does this filesystem work?
+Compile the `tex` file with the same name as the folder. 
+In this case compile `Classical_Mechanics.tex` with `pdflatex`, 
+using `biber` to compile the biliography.
+To add topics to this main document, use the `\input{foo.tex}`.
 
