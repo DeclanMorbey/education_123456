@@ -1,11 +1,22 @@
 # How To Git Good
 Do you want to become a better version of yourself?
 This should contain education materials used throughout the course of a degree in physics.
-In order to create this comprehensive course, the material should be deisgned to the same stucture. 
+In order to create this comprehensive course, the material should be designed to the same structure. 
 It should all be written in a Latex format, with a title page, contents page, and an abstract overview with what will be covered.  
 
 # Subject Overviews
 ## Classical Mechanics
+Classical mechanics describes the motion of macroscopic objects, 
+from projectiles to parts of machinery, and astronomical objects, 
+such as spacecraft, planets, stars and galaxies [Wiki](https://en.wikipedia.org/wiki/Classical_mechanics).
+
+This highly broad topic was built upon Newtons methods through various analytical techniques such as Lagrangian, 
+Hamiltonian, and Hamilton-Jacobi formulations.
+It involves the observations of macroscopic systems using equations of motion 
+(such as translational, rotational, oscillatory and circular) from these formulations.
+Traditionally, Classical Mechanics brought about the introduction to the concepts of space, time, 
+mass, force, momentum, torque, and angular momentum to solve the motion of bodies. 
+
 ## Quantum Mechanics
 ## Relativistic Mechanics
 ## Quantum Field Theory
