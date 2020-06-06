@@ -23,18 +23,18 @@ It may also be handy to create beamer slides at any point,
 where you wish to present the information to an audience or teach.
 
 # Subject Overviews
-- [ ] Classical Mechanics
-- [ ] Quantum Mechanics
-- [ ] Relativistic Mechanics
-- [ ] Quantum Field Theory
-- [ ] Thermodynamics and Statistical Mechanics 
-- [ ] Electromagnetism
-- [ ] Nuclear Physics
-- [ ] Particle Physics
-- [ ] Mathematical Methods
-- [ ] Cosmology
-- [ ] Condensed Matter Physics
-- [ ] Semiconductor Device Physics
+## Classical Mechanics
+## Quantum Mechanics
+## Relativistic Mechanics
+## Quantum Field Theory
+## Thermodynamics and Statistical Mechanics 
+## Electromagnetism
+## Nuclear Physics
+## Particle Physics
+## Mathematical Methods
+## Cosmology
+## Condensed Matter Physics
+## Semiconductor Device Physics
 
 ## August Exams - Declan
 - [ ] Quantum Field Theory
