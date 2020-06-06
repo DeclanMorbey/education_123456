@@ -8,10 +8,10 @@ It should all be written in a Latex format, with a title page, contents page, an
 
 In short to add to the knowledge:
 
-1. Create your own branch (eg. `user_how_to_git_good`, `user_topics`).
-2. Decide on the category of the sub-topic, or create a new topic.
-3. Create a `subtopic.tex` file with your desired sub-topic.
-4. Add this sub-topic to the `main_topic.tex` file using `\input{filename}` feature in Latex.
+1. Create your own branch (eg. `user_how_to_git_good`, `user_subject`).
+2. Decide on the category of the sub-subject, or create a new subject folder.
+3. Create a `subsubject.tex` file with your desired sub-subject.
+4. Add this sub-subject to the `main_subject.tex` file using `\input{filename}` feature in Latex.
 
 The purpose of compiling these files this way is so that upon compilation,
 people are able to pick and choose what subjects to include in the output `pdf`.
@@ -36,7 +36,7 @@ where you wish to present the information to an audience or teach.
 - [ ] Condensed Matter Physics
 - [ ] Semiconductor Device Physics
 
-# August Exams - Declan
+## August Exams - Declan
 - [ ] Quantum Field Theory
 - [ ] Advanced Particle Physics
 - [ ] Quantum Information Processing
