@@ -47,6 +47,12 @@ In short to add to the knowledge:
 3. Create a `subsubject.tex` file with your desired sub-subject.
 4. Add this sub-subject to the `main_subject.tex` file using `\input{filename}` feature in Latex.
 
+## How do the files compile?
+Compile the `tex` file with the same name as the folder: 
+1. Compile `Classical_Mechanics.tex` with `pdflatex`. 
+2. Use `biber` to compile the biliography.
+3. Add topics to this main document, use the `\input{foo.tex}`.
+
 The purpose of compiling these files this way is so that upon compilation,
 people are able to pick and choose what subjects to include in the output `pdf`.
 First remember that this is meant to be an incredible resource for both yourself and others.
