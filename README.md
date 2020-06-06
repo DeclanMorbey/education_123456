@@ -37,9 +37,9 @@ where you wish to present the information to an audience or teach.
 ## Semiconductor Device Physics
 
 ## August Exams - Declan
-- [ ] Quantum Field Theory
-- [ ] Advanced Particle Physics
-- [ ] Quantum Information Processing
-- [ ] Atomic and Quantum Physics III
-- [ ] Laser Physics
-- [ ] Nano Biophotonics
+### Quantum Field Theory
+### Advanced Particle Physics
+### Quantum Information Processing
+### Atomic and Quantum Physics III
+### Laser Physics
+### Nano Biophotonics
