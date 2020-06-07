@@ -1,0 +1,107 @@
+\documentclass{report}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1.2in]{geometry}
+\usepackage{graphicx}
+\usepackage{appendix}
+\usepackage{mathtools}
+\usepackage{epigraph}
+\usepackage{subfig}
+
+\usepackage{biblatex}
+\addbibresource{bib.bib}
+\usepackage{setspace}
+\doublespacing
+\usepackage{hyperref}
+\usepackage{glossaries}
+
+\usepackage{tcolorbox}
+
+\usepackage{listings}
+\usepackage{xcolor}
+
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+
+\lstdefinestyle{mystyle}{
+    backgroundcolor=\color{backcolour},   
+    commentstyle=\color{codegreen},
+    keywordstyle=\color{magenta},
+    numberstyle=\tiny\color{codegray},
+    stringstyle=\color{codepurple},
+    basicstyle=\ttfamily\footnotesize,
+    breakatwhitespace=false,         
+    breaklines=true,                 
+    captionpos=b,                    
+    keepspaces=true,                 
+    numbers=left,                    
+    numbersep=5pt,                  
+    showspaces=false,                
+    showstringspaces=false,
+    showtabs=false,                  
+    tabsize=2
+}
+\lstset{style=mystyle}
+
+
+\author{Various}
+\begin{document}
+\begin{titlepage}
+    \begin{center}
+        \vspace*{1cm}
+        \huge
+        {\textbf{Classical Mechanics}}
+        \vspace{2cm}
+        \normalsize 
+
+        \textbf{A collection of notes on Classical Mechanics}
+        
+        \vspace{2cm}
+        \date{}
+        \huge
+        \textbf{}
+        \normalsize
+
+        \vfill
+        
+        \vspace{0.8cm}
+        \vspace{0.8cm}
+        \textbf{A collection of notes to aid education.}
+    \end{center}
+ \end{titlepage}
+
+\thispagestyle{plain}
+%\begin{center}
+%    \Large
+%    \textbf{}
+%        
+%    \large
+%       
+%    \vspace{0.4cm}
+%    \textbf{Abstract}
+%\end{center}
+\newpage
+
+\renewcommand{\abstractname}{Acknowledgements}
+\begin{abstract}
+\begin{itemize}
+    \item Everyone who contributes, please sign your name here. 
+\end{itemize}
+\end{abstract}
+
+\newpage
+\tableofcontents
+\newpage
+
+\chapter{Introduction}
+\input{Newtons_Formulation.tex}
+
+\printbibliography
+
+%\chapter{Appendix}
+%\appendix
+%\input{appendix.tex}
+
+
+\end{document}
