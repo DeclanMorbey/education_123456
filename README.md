@@ -18,10 +18,6 @@ Traditionally, Classical Mechanics brought about the introduction to the concept
 mass, force, momentum, torque, and angular momentum to solve the motion of bodies. 
 
 <p align="center">
-![Alt Text](https://i.pinimg.com/originals/e6/bc/26/e6bc26c7a2617dafea44379d5d236b97.gif)
-</p>
-
-<p align="center">
   <img src="https://i.pinimg.com/originals/e6/bc/26/e6bc26c7a2617dafea44379d5d236b97.gif"/>
 </p>
 
