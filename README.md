@@ -33,14 +33,6 @@ mass, force, momentum, torque, and angular momentum to solve the motion of bodie
 ## Condensed Matter Physics
 ## Semiconductor Device Physics
 
-## August Exams - Declan
-### Quantum Field Theory
-### Advanced Particle Physics
-### Quantum Information Processing
-### Atomic and Quantum Physics III
-### Laser Physics
-### Nano Biophotonics
-
 
 # How to contribute in an orderly fashion 
 
